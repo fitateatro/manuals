@@ -1,11 +1,15 @@
 
 The main documentation for the site is organized into a couple sections:
 
-* :ref:`user-architetture`
-* :ref:`feature-docs`
-* :ref:`about-docs`
+Contents:
 
+.. toctree::
+   :maxdepth: 2
+   
+   basics
+   
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwODQ1ODk2MCwtMTkxOTI0Mzg2N119
+eyJoaXN0b3J5IjpbLTE3NDMxODExOTgsMjEwODQ1ODk2MCwtMT
+kxOTI0Mzg2N119
 -->
